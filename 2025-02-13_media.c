@@ -9,8 +9,8 @@ int main() {
     printf("Digite tres numeros: ");
     scanf("%d %d %d", &x1, &x2, &x3);
     
-    media = (x1 + x2 + x3)/2;
+    media = (x1 + x2 + x3)/3.0;
     
-    printf("\n\nA media dos numeros e: %d", media);
+    printf("\n\nA media dos numeros e: %.2f", media);
     
 }

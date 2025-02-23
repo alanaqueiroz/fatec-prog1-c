@@ -9,4 +9,3 @@ int main() {
     printf("\n\nO antecessor e %d e o sucessor e %d", x - 1, x + 1);
     
 }
-

@@ -20,4 +20,3 @@ main(){
 	
 	printf("\n\nBoa noite, %s %s - voce possui %d anos",nome,sobrenome,idade);
 }
-
