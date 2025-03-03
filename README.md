@@ -1,4 +1,6 @@
-# fatecProg1C | Linguagem de Programação I - 2º Semestre
+# fatecProg1C
+
+## Linguagem de Programação I - 2º Semestre
 
 Este repositório contém os códigos e materiais desenvolvidos durante a disciplina `Linguagem de Programação I` no segundo semestre da minha faculdade `Tecnologia em Banco de Dados`. O foco é a implementação de soluções computacionais utilizando a **linguagem C**.
 
