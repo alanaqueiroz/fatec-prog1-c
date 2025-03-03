@@ -1,6 +1,4 @@
-#  fatecProg1C
-
-# 📌 Linguagem de Programação I - 2º Semestre
+# fatecProg1C | Linguagem de Programação I - 2º Semestre
 
 Este repositório contém os códigos e materiais desenvolvidos durante a disciplina `Linguagem de Programação I` no segundo semestre da minha faculdade `Tecnologia em Banco de Dados`. O foco é a implementação de soluções computacionais utilizando a **linguagem C**.
 
@@ -59,18 +57,15 @@ Os principais tópicos abordados durante o semestre incluem:
 
 ## 🛠 Tecnologias Utilizadas
 
-**Linguagem**: C
-
-**Compilador recomendado**: GCC (g++), Online GBD
-
-**Editor de código recomendado**: Visual Studio, Dev-C++
+- **Linguagem**: C
+- **Compilador recomendado**: GCC (g++), Online GBD
+- **Editor de código recomendado**: Visual Studio, Dev-C++
 
 ## 📌 Sobre a Disciplina
 
-**Carga horária**: 80 aulas
-
-**Objetivo**: Capacitar o estudante a analisar problemas, projetar, implementar e validar soluções computacionais utilizando a linguagem C.
-
+- **Carga horária**: 80 aulas
+- **Objetivo**: Capacitar o estudante a analisar problemas, projetar, implementar e validar soluções computacionais para os mesmos, através do uso de metodologias, técnicas e ferramentas de programação implementando programas de computador em uma linguagem de programação.
+- **Ementa**: Ementa: Conceitos básicos de Linguagens de Programação. Visão geral de linguagens. Paradigmas de Linguagens de Programação. Implementação de algoritmos por meio de uma linguagem de programação.
 ---
 
-*📌 Este repositório será atualizado ao longo do semestre com novos códigos e projetos.*
+*⚠️ Este repositório será atualizado ao longo do semestre com novos códigos e projetos.*
