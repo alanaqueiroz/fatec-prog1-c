@@ -11,7 +11,7 @@ int main()
     printf("Que tipo de cliente voce, digite 'f' para funcionario e v para (vip): ");
     scanf("%f", &cliente);
     
-    if(cliente = f)  // Corrigido o erro aqui
+    if(cliente = f)
     {
         cliente = m * 3.30;
         printf("Os valor das macas saira por %d", vf);
