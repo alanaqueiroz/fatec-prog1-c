@@ -1,3 +1,5 @@
+// 1. Faça um algoritmo para ler dois números inteiros e informar se estes são iguais ou diferentes.
+
 #include <stdio.h>
 
 int main()
