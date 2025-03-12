@@ -46,7 +46,7 @@ Os principais tópicos abordados durante o semestre incluem:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/alanaqueiroz/fatecProg1C.git
+   git clone https://github.com/alanaqueiroz/fatec-prog-1c.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
