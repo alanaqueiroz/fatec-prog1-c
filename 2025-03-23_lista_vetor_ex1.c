@@ -1,30 +1,21 @@
+//  1.	Leia um vetor de 10 valores inteiros e exiba todos os valores ímpares.
+
 #include <stdio.h>
-#include <stdlib.h> 
 
-struct aluno
-{
-    int codigo;
-    char nome[50];
-};
+int main() {
+    int vetor[10];
 
-int main()
-{
-    struct aluno a, b;
+    printf("Digite 10 valores inteiros:\n");
+    for (int i = 0; i < 10; i++) {
+        scanf("%d", &vetor[i]);
+    }
 
-    printf("Codigo: ");
-    scanf("%d", &a.codigo);
-    getchar();
-    printf("Nome: ");
-    fgets(a.nome, sizeof(a.nome), stdin);
-
-    printf("Codigo: ");
-    scanf("%d", &b.codigo);
-    getchar();
-    printf("Nome: ");
-    fgets(b.nome, sizeof(b.nome), stdin);
-
-    printf("\n\nNome: %sCodigo: %d", a.nome, a.codigo);
-    printf("\n\nNome: %sCodigo: %d", b.nome, b.codigo);
+    printf("Valores ímpares no vetor:\n");
+    for (int i = 0; i < 10; i++) {
+        if (vetor[i] % 2 != 0) {
+            printf("%d ", vetor[i]);
+        }
+    }
 
     return 0;
 }

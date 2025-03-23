@@ -1,30 +1,28 @@
+//  6.	Implemente um programa em C que preencha um vetor de dimensão 10 com valores do usuário
+// e calcule a soma dos elementos positivos que se encontrarem nas posições pares do vetor.
+
 #include <stdio.h>
-#include <stdlib.h> 
 
-struct aluno
-{
-    int codigo;
-    char nome[50];
-};
+int main() {
+    int vetor[10];
+    int soma = 0;
 
-int main()
-{
-    struct aluno a, b;
+    printf("Digite 10 valores inteiros:\n");
+    for (int i = 0; i < 10; i++) 
+    {
+        printf("Valor %d: ", i + 1);
+        scanf("%d", &vetor[i]);
+    }
 
-    printf("Codigo: ");
-    scanf("%d", &a.codigo);
-    getchar();
-    printf("Nome: ");
-    fgets(a.nome, sizeof(a.nome), stdin);
+    for (int i = 0; i < 10; i += 2) 
+    {
+        if (vetor[i] > 0) 
+        {
+            soma += vetor[i];
+        }
+    }
 
-    printf("Codigo: ");
-    scanf("%d", &b.codigo);
-    getchar();
-    printf("Nome: ");
-    fgets(b.nome, sizeof(b.nome), stdin);
-
-    printf("\n\nNome: %sCodigo: %d", a.nome, a.codigo);
-    printf("\n\nNome: %sCodigo: %d", b.nome, b.codigo);
+    printf("A soma dos elementos positivos nas posições pares é: %d\n", soma);
 
     return 0;
 }
