@@ -50,7 +50,7 @@ Os principais tópicos abordados durante o semestre incluem:
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd fatec-prog-1c
+   cd fatec-prog1-c
    ```
 3. Compile e execute os códigos C utilizando um compilador como `g++`:
    ```sh
