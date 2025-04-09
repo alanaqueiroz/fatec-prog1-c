@@ -1,4 +1,4 @@
-//  1.	Leia um vetor de 10 valores inteiros e exiba todos os valores ímpares.
+// 1. Leia um vetor de 10 valores inteiros e exiba todos os valores ímpares.
 
 #include <stdio.h>
 

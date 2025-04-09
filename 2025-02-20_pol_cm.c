@@ -1,5 +1,5 @@
-//1. Ler uma medida em polegadas e imprimir a equivalente em centímetros,
-//sabendo que 2.54 cm equivale a 1 polegada.
+// 1. Ler uma medida em polegadas e imprimir a equivalente em centímetros,
+// sabendo que 2.54 cm equivale a 1 polegada.
 
 #include <stdio.h>
 

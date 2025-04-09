@@ -1,4 +1,4 @@
-//  5.	Implemente um programa em C que receba do usuário dez temperaturas em graus Farenheit,
+// 5. Implemente um programa em C que receba do usuário dez temperaturas em graus Farenheit,
 // transforme-as em graus Celsius e armazene os resultados em um vetor. Terminada a entrada de dados,
 // os valores armazenados devem ser apresentados. Obs.: A fórmula é C = (ºF - 32) / 1,8.
 

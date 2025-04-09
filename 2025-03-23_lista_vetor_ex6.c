@@ -1,4 +1,4 @@
-//  6.	Implemente um programa em C que preencha um vetor de dimensão 10 com valores do usuário
+// 6. Implemente um programa em C que preencha um vetor de dimensão 10 com valores do usuário
 // e calcule a soma dos elementos positivos que se encontrarem nas posições pares do vetor.
 
 #include <stdio.h>

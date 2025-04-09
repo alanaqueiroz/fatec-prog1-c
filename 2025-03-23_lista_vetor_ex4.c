@@ -1,4 +1,4 @@
-//  4.	Crie um programa que copie um vetor de 10 posições de inteiros (preenchidos aleatoriamente),
+// 4. Crie um programa que copie um vetor de 10 posições de inteiros (preenchidos aleatoriamente),
 // de trás para frente, em um segundo vetor.
 
 #include <stdio.h>

@@ -1,4 +1,4 @@
-//  2.	Leia um vetor de 6 valores reais e exiba a média, o maior e o menor valor.
+// 2. Leia um vetor de 6 valores reais e exiba a média, o maior e o menor valor.
 
 #include <stdio.h>
 
