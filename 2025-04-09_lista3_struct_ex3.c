@@ -10,7 +10,6 @@
 // b) Declarar a variável agenda (vetor) com capacidade de agendar até 50 cadastros (usar for para preencher as 50 posições).
 // c) Possibilitar a visualização dos dados (usar for para visualizar tudo de uma única vez).
 
-
 #include <stdio.h>
 #include <string.h>
 
@@ -90,7 +89,6 @@ int main() {
         scanf(" %[^\n]", agenda[i].observacoes);
     }
     
-    // c) Visualização dos dados
     printf("\nAGENDA DE CONTATOS:\n");
     for(int i = 0; i < 50; i++) {
         printf("\nContato %d:\n", agenda[i].codigo);
